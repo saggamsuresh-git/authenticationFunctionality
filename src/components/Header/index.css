@@ -1,0 +1,12 @@
+Link {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  display: flex;
+  width: 100px;
+  justify-content: space-evenly;
+}
+li {
+  margin: auto;
+}
